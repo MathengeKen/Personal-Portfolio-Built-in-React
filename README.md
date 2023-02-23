@@ -1,16 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 # Description
 This code-base depicts the creation of a personal portfolio using React and Material-UI.
 Feel free to fork and alter it to your liking.
@@ -24,3 +11,9 @@ Placing a light/dark theme button.
 
 # Kindly note
 The GithubIcons, LinkedIcons and TwitterIcons do not lead anywhere. However, one can easily implement this as demonstrated in the ProjectDisplay.js file where the GithubIcon is anchored.
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
